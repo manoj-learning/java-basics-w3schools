@@ -3,4 +3,4 @@
 ## Java Syntax
 
 - [Link](https://www.w3schools.com/java/java_syntax.asp)
-- [Code](../blob/master/src/com/manoj/learning/java/basics/syntax/Main.java)
+- [Code](../master/src/com/manoj/learning/java/basics/syntax/Main.java)
