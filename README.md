@@ -11,3 +11,7 @@
 #### Java Strings
 
 - [Tutorial Link](https://www.w3schools.com/java/java_strings.asp) | [Code](../master/src/com/manoj/learning/java/basics/strings/Main.java)
+
+#### Java Math
+
+- [Tutorial Link](https://www.w3schools.com/java/java_math.asp) | [Code](../master/src/com/manoj/learning/java/basics/math/Main.java)

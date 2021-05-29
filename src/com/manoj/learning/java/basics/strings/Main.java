@@ -41,6 +41,9 @@ public class Main {
 		
 		String backspace = "Hello \b World with \b backspace!";
 		System.out.println(backspace);
+		
+		String formFeed = "Hello \f World with \f backspace!";
+		System.out.println(formFeed);
 	}
 
 }
