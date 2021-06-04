@@ -15,3 +15,7 @@
 #### Java Math
 
 - [Tutorial Link](https://www.w3schools.com/java/java_math.asp) | [Code](../master/src/com/manoj/learning/java/basics/math/Main.java)
+
+#### Java Boolean
+
+- [Tutorial Link](https://www.w3schools.com/java/java_booleans.asp) | [Code](../master/src/com/manoj/learning/java/basics/booleans/Main.java)
