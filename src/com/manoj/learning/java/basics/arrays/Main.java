@@ -24,16 +24,14 @@ public class Main {
 		for (int i = 0; i < cars.length; i++) {
 			System.out.println(cars[i]);
 		}
-		
-		
-		//loop through array - for each
+
+		// loop through array - for each
 		for (int i = 0; i < cars.length; i++) {
-			  System.out.println(cars[i]);
+			System.out.println(cars[i]);
 		}
-		
-		
-		//2D arrays (2D matrix)
-		int[][] myNumbers = { {1, 2, 3, 4}, {5, 6, 7} };
+
+		// 2D arrays (2D matrix)
+		int[][] myNumbers = { { 1, 2, 3, 4 }, { 5, 6, 7 } };
 		int x = myNumbers[1][2];
 		System.out.println(x);
 	}
