@@ -35,4 +35,8 @@
   - [Tutorial Link](https://www.w3schools.com/java/java_while_loop.asp) | [Code](../master/src/com/manoj/learning/java/basics/controlstructures/WhileLoop.java)
 
 - For Loops
+
   - [Tutorial Link](https://www.w3schools.com/java/java_for_loop.asp) | [Code](../master/src/com/manoj/learning/java/basics/controlstructures/ForLoop.java)
+
+- Arrays
+  - [Tutorial Link](https://www.w3schools.com/java/java_arrays.asp) | [Code](../master/src/com/manoj/learning/java/basics/arrays/Main.java)
