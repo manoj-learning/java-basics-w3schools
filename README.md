@@ -1,4 +1,4 @@
-# [Java Basics - W3Schools](w3schools.com/java/default.asp)
+# [Java Basics - W3Schools](https://w3schools.com/java/default.asp)
 
 ### Java Syntax
 
