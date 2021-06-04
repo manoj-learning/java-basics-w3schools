@@ -28,3 +28,5 @@
 
 - Switch - Case
   - [Tutorial Link](https://www.w3schools.com/java/java_switch.asp) | [Code](../master/src/com/manoj/learning/java/basics/controlstructures/SwitchCase.java)
+- While Loops
+  - [Tutorial Link](https://www.w3schools.com/java/java_while_loop.asp) | [Code](../master/src/com/manoj/learning/java/basics/controlstructures/WhileLoop.java)
