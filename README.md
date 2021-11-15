@@ -44,3 +44,8 @@
 ### Java Methods
 
 - [Tutorial Link](https://www.w3schools.com/java/java_methods.asp) | [Code](../master/src/com/manoj/learning/java/basics/methods/Main.java)
+
+### Java OOP
+
+- Classes, Objects, class methods and attributes
+  - [Tutorial Link](https://www.w3schools.com/java/java_classes.asp) | [Code](../master/src/com/manoj/learning/java/basics/oop/Main.java)
