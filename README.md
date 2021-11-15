@@ -47,6 +47,10 @@
 
 ### Java OOP
 
+- Pre-requisite: Read the below page before starting on OOP
+
+  - [Access Modifiers in Java](https://www.w3schools.com/java/java_modifiers.asp)
+
 - Classes, Objects, class methods and attributes
 
   - [Tutorial Link](https://www.w3schools.com/java/java_classes.asp) | [Code](../master/src/com/manoj/learning/java/basics/oop/Main.java)
