@@ -9,7 +9,6 @@ public class Main {
 		// declare and initialize
 		String[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
 
-		int[] myNum = { 10, 20, 30, 40 };
 
 		// access elements in an array
 		System.out.println(cars[0]); // Outputs Volvo
