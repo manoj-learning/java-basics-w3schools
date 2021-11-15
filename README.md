@@ -40,3 +40,7 @@
 
 - Arrays
   - [Tutorial Link](https://www.w3schools.com/java/java_arrays.asp) | [Code](../master/src/com/manoj/learning/java/basics/arrays/Main.java)
+
+### Java Methods
+
+- [Tutorial Link](https://www.w3schools.com/java/java_methods.asp) | [Code](../master/src/com/manoj/learning/java/basics/methods/Main.java)
