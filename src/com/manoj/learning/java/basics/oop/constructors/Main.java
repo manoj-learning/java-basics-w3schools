@@ -1,8 +1,8 @@
 package com.manoj.learning.java.basics.oop.constructors;
 
-// Create a Main class
+
 public class Main {
-	int x; // Create a class attribute
+	int x; 
 
 	// Create a class constructor for the Main class
 	public Main() {
@@ -14,5 +14,3 @@ public class Main {
 		System.out.println(objofMain.x); // Print the value of x
 	}
 }
-
-// Outputs 5
